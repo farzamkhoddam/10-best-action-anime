@@ -85,7 +85,6 @@ h1{
  }
  #my-image{
    width: 10%;
-   -webkit-transform: rotate(90deg);
   border-radius: 50px;
   margin: 3rem;
     }
