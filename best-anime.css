@@ -1,0 +1,104 @@
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+
+    
+
+}
+ .anime-images{
+    border-radius: 25px;
+    
+
+ }
+ h3{
+    font-family: 'Baloo 2', cursive;
+ }
+ #tokyo-ghoul{
+     width: 200px;
+     height: 300px;
+ }
+ #bleach{
+     height: 200px;
+ }
+ #akame-ga-kill{
+     height: 200px;
+ }
+ #naruto-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+ 
+    }
+    body{
+        background-color: rgb(230, 231, 229);
+        
+    }
+    #hunter-div{
+
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+    }
+ #one-punch-man-div{
+
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+ }
+ #tokyo-ghoul-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+ }
+ #noragami-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+ }
+ #bleach-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px;   
+ }
+ #akame-ga-kill-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+ }
+ #seven-deadly-sins-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px;
+ }
+ #code-geass-div{
+    margin: 80px;
+    background-color: white;
+    padding: 20px; 
+ }
+ #soul-eater-div{
+
+    margin: 80px;
+    background-color: white;
+    padding: 20px; 
+ }
+ #my-image{
+   width: 10%;
+   -webkit-transform: rotate(90deg);
+  border-radius: 50px;
+  margin: 3rem;
+    }
+    .img{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card{
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+      }
+ #my-image-div{
+       display: flex;
+       justify-content: center;
+    }
